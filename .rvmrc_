@@ -1,0 +1,6 @@
+# Install the requested Ruby version automatically
+rvm_install_on_use_flag=1
+# Fallback to the default ruby version
+rvm_project_rvmrc_default=1
+# Automatically use bundler, if a Gemfile is found
+rvm_autoinstall_bundler_flag=1
